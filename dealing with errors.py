@@ -5,3 +5,4 @@ print(1/1).
 print(1/0)
 #ValueError
 #example entering words insted of numbers
+
