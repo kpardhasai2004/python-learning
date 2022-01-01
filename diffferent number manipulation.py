@@ -33,6 +33,7 @@ print("\n")
 
 print(min(1,5,6,21,8 ))
 
+
 print("\n")
 
 print(pow(5,2))
