@@ -17,3 +17,5 @@ for number in range (6) :
 
 for rate in range (20,30) :
     print(rate)
+
+    
